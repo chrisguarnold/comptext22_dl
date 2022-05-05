@@ -10,7 +10,7 @@ Christian Arnold, Cardiff University (Instructor)
 
 
 ## Code 
-* Code Nr.1: MNIST
+* [Code Nr.1: MNIST](https://colab.research.google.com/drive/1IvWCjISPz09qI9XtD2XDWmAtXEM-RLe_?usp=sharing)
 * Code Nr.2: MNIST revisited
 * Code Nr.3: IMDB
 
