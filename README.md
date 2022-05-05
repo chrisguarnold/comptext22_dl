@@ -4,19 +4,17 @@ COMPTEXT 2022, 5.5.2022
 
 
 ## Team 
-
 Christian Arnold, Cardiff University (Instructor)
 * <arnoldc6@cardiff.ac.uk>
-
-
-## Code 
-* [Code Nr.1: MNIST](https://colab.research.google.com/drive/1IvWCjISPz09qI9XtD2XDWmAtXEM-RLe_?usp=sharing)
-* Code Nr.2: MNIST revisited
-* Code Nr.3: IMDB
 
 ## Docs 
 * Slides 
 * Maths
+
+## Code (Google Collab)
+* [Code Nr.1: MNIST](https://colab.research.google.com/drive/1IvWCjISPz09qI9XtD2XDWmAtXEM-RLe_?usp=sharing)
+* [Code Nr.2: MNIST revisited](https://colab.research.google.com/drive/1AsboqWsPzRsDqlcCTOzBShpTVbeb3nf4?usp=sharing)
+* [Code Nr.3: IMDB](https://colab.research.google.com/drive/1zgxTdTsrQ-I06mJpC5O6VxPnsBp24o8b?usp=sharing)
 
 ## Sources 
 
